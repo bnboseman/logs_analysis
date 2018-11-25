@@ -14,3 +14,5 @@ To start the program, go to the directory and run
 ```bash
 python analyse_logs.py
 ```
+
+Example output is shown in the `output.txt` file.
